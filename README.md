@@ -1,4 +1,4 @@
-# Análisis de Datos con Python
+## Análisis de Datos con Python
 Este repositorio contiene mis apuntes, ejercicios y proyectos desarrollados a lo largo del curso **“Análisis de Datos desde cero con Python”**
 
 ## 🎯 Objetivo del curso
